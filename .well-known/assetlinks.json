@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.hassanodaey1.time",
+    "sha256_cert_fingerprints": ["13:2F:7B:6D:BF:07:BC:6D:12:06:CE:63:7D:5B:6A:5D:FA:44:B1:2C:5E:28:FA:0B:2C:2C:E8:2B:6E:9B:5A:C3"]
+  }
+}]
